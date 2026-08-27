@@ -1,0 +1,1 @@
+Esse projeto é um prjeto backend feito para aprender a manipular outros projetos integrados com banco de dados
