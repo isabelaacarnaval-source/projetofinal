@@ -1,4 +1,5 @@
- CREATE TABLE IF NOT EXISTS products (
+  USE projetofinal;
+  CREATE TABLE IF NOT EXISTS products (
     id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(120) NOT NULL,
     description VARCHAR(255),
